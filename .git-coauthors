@@ -3,6 +3,10 @@
     "js": {
       "name": "Jheremy",
       "email": "jheremy.strom@seo-usa.org"
+    },
+    "te": {
+      "name": "Tester",
+      "email": "test@gmail.com"
     }
   }
 }
