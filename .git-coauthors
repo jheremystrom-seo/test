@@ -7,6 +7,10 @@
     "te": {
       "name": "Tester",
       "email": "test@gmail.com"
+    },
+    "jh": {
+      "name": "Jay",
+      "email": "jheremystrom@gmail.com"
     }
   }
 }
